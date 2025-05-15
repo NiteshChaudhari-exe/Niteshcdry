@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-Welcome to the Niteshcdry repository! This repository contains configuration files for my GitHub profile and an engaging program that showcases my skills.
+A warm welcome !! 
+This repository contains configuration files for my GitHub profile and an engaging program that showcases my skills.
 
 ## User-Attractive Program
 
